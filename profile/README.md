@@ -10,7 +10,7 @@ Currently, we serve:
  - [Yuruddit](https://rd.funami.tech) - Powered by [Libreddit](https://github.com/spikecodes/libreddit)
  - [YuruGram](https://ig.funami.tech) - Powered by [Bibliogram](https://sr.ht/~cadence/bibliogram/)
  - [YuruMC](https://mc.funami.tech) - Powered by [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) and [GraalVM Enterprise](https://www.oracle.com/kr/java/graalvm/)
- - [YuruMirror](https://mirrror.funami.tech) - Powered by [nginx](https://nginx.org) and et al.
+ - [YuruMirror](https://mirror.funami.tech) - Powered by [nginx](https://nginx.org) and et al.
  - [YuruSearch](https://search.funami.tech) - Powered by [LibreX](https://github.com/hnhx/librex)
  - [YuruTube](https://yt.funami.tech) - Powered by [Invidious](https://invidious.io/)
  - [YuruTwt](https://twt.funami.tech) - Powered by [Nitter](https://github.com/zedeus/nitter)
