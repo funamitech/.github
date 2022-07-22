@@ -4,7 +4,7 @@
 
 [https://funami.tech](https://funami.tech)
 
-Privacy-oriented services for all east Asians! Hosted in Seoul, South Korea.
+Privacy-oriented services for all East Asians! Hosted in Seoul, South Korea.
 
 Currently, we serve:
  - [Yuruddit](https://rd.funami.tech) - Powered by [Libreddit](https://github.com/spikecodes/libreddit)
