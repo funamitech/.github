@@ -17,10 +17,10 @@ Currently, we serve:
  - [YuruSearch](https://search.funami.tech) - Powered by [LibreX](https://github.com/hnhx/librex)
  - [YuruToot](https://toot.funami.tech) - Powered by [Mastodon](https://github.com/mastodon/mastodon)
  - [YuruTube](https://yt.funami.tech) - Powered by [Invidious](https://invidious.io/)
- - [YuruTwt](https://twt.funami.tech) - Powered by [Nitter](https://github.com/zedeus/nitter)
  - [YuruWiki(less)](https://wikiless.funami.tech) - Powered by [Wikiless](https://codeberg.org/orenom/wikiless)
 
 What we have served before but now we don't:
  - [YuruGram](https://ig.funami.tech) - Powered by [Bibliogram](https://sr.ht/~cadence/bibliogram/) (Shut down due to upstream stopping development, does not work anymore.)
+ - [YuruTwt](https://twt.funami.tech) - Powered by [Nitter](https://github.com/zedeus/nitter) (Shut down due to Twitter blocking? our server)
  
 Enjoy your deserved privacy!
