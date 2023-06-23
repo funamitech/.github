@@ -12,6 +12,7 @@ Privacy-oriented services for all East Asians! Hosted in Seoul, South Korea.
 Currently, we serve:
  - [YuruChat](https://chat.funami.tech) - Powered by [Matrix](https://matrix.org) and [Element](https://element.io) (Web interface)
  - [Yuruddit](https://rd.funami.tech) - Powered by [Libreddit](https://github.com/spikecodes/libreddit)
+ - [YuruLemmy](https://lemmy.funami.tech) - Powered by [Lemmy](https://join-lemmy.org)
  - [YuruMC](https://mc.funami.tech) - Powered by [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) and [GraalVM Enterprise](https://www.oracle.com/kr/java/graalvm/)
  - [YuruMirror](https://mirror.funami.tech) - Powered by [nginx](https://nginx.org) and et al.
  - [YuruSearch](https://search.funami.tech) - Powered by [LibreX](https://github.com/hnhx/librex)
