@@ -14,7 +14,7 @@ Currently, we serve:
  - [YuruLemmy](https://lemmy.funami.tech) - Powered by [Lemmy](https://join-lemmy.org)
  - [YuruMC](https://mc.funami.tech) - Powered by [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) and [GraalVM Enterprise](https://www.oracle.com/kr/java/graalvm/)
  - [YuruMirror](https://mirror.funami.tech) - Powered by [nginx](https://nginx.org) and et al.
- - [YuruSearch](https://search.funami.tech) - Powered by [LibreX](https://github.com/hnhx/librex)
+ - [YuruSearch](https://search.funami.tech) - Powered by [LibreY](https://github.com/funamitech/search)
  - [YuruToot](https://toot.funami.tech) - Powered by [Mastodon](https://github.com/funamitech/mastodon)
  - [YuruWiki(less)](https://wikiless.funami.tech) - Powered by [Wikiless](https://codeberg.org/orenom/wikiless)
 
