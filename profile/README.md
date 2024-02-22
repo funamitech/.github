@@ -16,14 +16,15 @@ Currently, we serve:
  - [YuruMirror](https://mirror.funami.tech) - Powered by [nginx](https://nginx.org) and et al.
  - [YuruSearch](https://search.funami.tech) - Powered by [LibreY](https://github.com/funamitech/search)
  - [YuruToot](https://toot.funami.tech) - Powered by [Mastodon](https://github.com/funamitech/mastodon)
+ - [YuruTube](https://yt.funami.tech) - Powered by [Invidious](https://invidious.io/) (Resurrected!)
  - [YuruWiki(less)](https://wikiless.funami.tech) - Powered by [Wikiless](https://codeberg.org/orenom/wikiless)
 
 Temporaily unavailable:
- - [Yuruddit](https://rd.funami.tech) - Powered by [Libreddit](https://github.com/spikecodes/libreddit) (Too much traffic and we are broke now)
- - [YuruTube](https://yt.funami.tech) - Powered by [Invidious](https://invidious.io/) (YouTube banned our IP address, can't change IP now)
+ - None
 
 What we have served before but now we don't:
+ - [Yuruddit](https://rd.funami.tech) - Powered by [Libreddit](https://github.com/spikecodes/libreddit) (Too much traffic and you shouldn't browse Reddit at all.)
  - [YuruGram](https://ig.funami.tech) - Powered by [Bibliogram](https://sr.ht/~cadence/bibliogram/) (Shut down due to upstream stopping development, does not work anymore.)
- - [YuruTweet](https://twt.funami.tech) - Powered by [Nitter](https://github.com/zedeus/nitter) (Stopped working somehow)
+ - [YuruTweet](https://twt.funami.tech) - Powered by [Nitter](https://github.com/zedeus/nitter) (Stopped working somehow, also Twitter killed it.)
 
 Enjoy your deserved privacy!
